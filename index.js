@@ -11,4 +11,7 @@ production("D",572)
             {var total;
                 total=(510+308+486+572);
                 console.log("The total production is" +" "+ total+" "+"litres per day");
+            } 
+            var incomeOvertime=function(sellingPrice,time){
+                console.log("Your"+" "+time+" "+"income will be"+" "+sellingPrice);
             }    
