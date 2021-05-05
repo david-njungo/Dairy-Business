@@ -1,12 +1,10 @@
+Project name:Dairy-Business
+Project description:
 
 
 
-
-
-
-
-
-
+CONTRIBUTORS
+David Njungo Kimani
 
 Copyright (c) [2021] [David Njungo Kimani]
 
