@@ -1,5 +1,8 @@
-Project name:Dairy-Business
-Project description:
+PROJECT NAME
+Dairy-Business
+
+PROJECT DESCRIPTION
+
 
 
 
