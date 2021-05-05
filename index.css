@@ -43,3 +43,13 @@ input[type="button"]:hover{
 ::placeholder{
     color:white;
 }
+label{
+    color: black;
+    font-weight: 900;
+    font-size: larger;
+}
+table{
+    padding:50px;
+    margin-left:500px;
+    border-collapse: collapse;
+}
