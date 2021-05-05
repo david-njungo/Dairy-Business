@@ -1,7 +1,32 @@
 PROJECT NAME
 Dairy-Business
+By David Njungo Kimani
 
 PROJECT DESCRIPTION
+This is a dairy business website for an owner of a dairy cattle farm where they keep and monitor the records of milk in the farm.
+ 
+ SETUP/INSTALLATION REQUIREMENTS
+ Visual studio
+ Google chrome
+ Git
+ Github
+
+ Setup
+ 1.Clone the repo
+
+ 2.Open code in favourite editor
+ code .
+ 3.Open index.html with browser
+
+ Technologies
+ HTML,CSS and JAVASCRIPT
+
+ Support and contact details
+ david.njungo@student.moringaschool.com
+
+ License
+ license under MIT LICENSE copyright (c) 2021 **David Njungo Kimani
+
 
 
 
