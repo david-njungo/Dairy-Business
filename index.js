@@ -5,10 +5,10 @@ production("A",510)
 production("B",308)
 production("C",486)
 production("D",572)
-var totalproduction=function(total){
-
-
-    {var total;
-        total=(510+308+486+572);
-                    console.log("The total production is" +" "+ total+" "+"litres per day");
-        }    
+        var totalproduction=function(total){
+        return total
+        }
+            {var total;
+                total=(510+308+486+572);
+                console.log("The total production is" +" "+ total+" "+"litres per day");
+            }    
