@@ -36,3 +36,10 @@ input[type="button"]{
     border:0;
     cursor: pointer;
 }
+input[type="button"]:hover{ 
+    background:#a4b15c;
+    transition:-6px;
+}
+::placeholder{
+    color:white;
+}
