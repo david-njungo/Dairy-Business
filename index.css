@@ -5,3 +5,18 @@ body{
     background: aqua;
     font-family: sans-serif;
 }
+.formwrap{
+    width:320px;
+    background:peru;
+    padding:40px 20px;
+    box-sizing: border-box;
+    position:fixed;
+    left:20%;
+    top:50%;
+    transform:translate(-50%,-50%) ;
+}
+h1{
+    text-align: center;
+    color:#fff;
+    font-weight: normal;
+}
