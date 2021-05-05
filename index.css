@@ -53,3 +53,6 @@ table{
     margin-left:500px;
     border-collapse: collapse;
 }
+th{
+    border:2px solid black;
+;}
