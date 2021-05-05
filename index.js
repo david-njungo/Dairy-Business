@@ -17,3 +17,5 @@ production("D",572)
                 } 
                 incomeOvertime([1876*45*7],"weekly")
                 incomeOvertime([1876*45*366],"yearly")   
+                    var report=function(name,income){
+                        console.log("Your income for"+" "+name+" "+"is"+" "+income)
